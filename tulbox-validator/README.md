@@ -17,13 +17,6 @@ Chrome extension that gates a site's `Submit` button behind custom validation ru
 3. Click Load unpacked.
 4. Select this project folder.
 
-## Site Scope
-
-The extension is active on:
-
-```json
-"matches": ["https://works.global.umusic.net/*"]
-```
 
 ## Validation Rules
 
